@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment10.params=
+comment10.target=void\ keyboard()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=words\ xVal\ yVal
+comment3.target=void\ displayRed(char,\ int,\ int)
+comment4.params=words\ xVal\ yVal
+comment4.target=void\ displayGreen(char,\ int,\ int)
+comment5.params=words\ xVal\ yVal
+comment5.target=void\ displayYellow(char,\ int,\ int)
+comment6.params=words
+comment6.target=void\ display(java.lang.String)
+comment7.params=s\ check
+comment7.target=boolean\ containsChar(java.lang.String,\ char)
+comment8.params=
+comment8.target=java.lang.String\ input()
+comment9.params=
+comment9.target=java.lang.String\ chooseWord()
+numComments=11
